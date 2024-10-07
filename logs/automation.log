@@ -1,0 +1,17 @@
+21:51:44.495 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+21:51:44.963 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
+21:51:47.412 [main] INFO  testCases.TC002_LoginTest - **** Starting login test ****
+21:51:47.412 [main] INFO  testCases.TC002_LoginTest - **** home page ****
+21:51:47.865 [main] INFO  testCases.TC002_LoginTest - **** login page ****
+21:51:48.372 [main] INFO  testCases.TC002_LoginTest - **** my account page ****
+21:51:48.421 [main] INFO  testCases.TC002_LoginTest - **** Finished login test ****
+21:56:28.463 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+21:56:28.627 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account
+21:56:28.958 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register link
+21:56:28.960 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+21:56:29.405 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
+21:56:32.973 [main] INFO  testCases.TC002_LoginTest - **** Starting login test ****
+21:56:32.973 [main] INFO  testCases.TC002_LoginTest - **** home page ****
+21:56:33.386 [main] INFO  testCases.TC002_LoginTest - **** login page ****
+21:56:33.858 [main] INFO  testCases.TC002_LoginTest - **** my account page ****
+21:56:33.904 [main] INFO  testCases.TC002_LoginTest - **** Finished login test ****
